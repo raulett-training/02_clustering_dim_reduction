@@ -1,0 +1,8 @@
+[project]
+name = "02-clustering-dim-reduction"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "notebook>=7.3.3",
+]
