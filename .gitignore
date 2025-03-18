@@ -1,2 +1,5 @@
 .idea/
 .venv/
+/Kmeans.ipynb
+/Hierarchical_DBSCAN_03_09.ipynb
+/Dimensionality_reduction.ipynb
